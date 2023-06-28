@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	porder:0;
+}
+body{
+	background-color: silver;
+}
+#container{
+	background-color: rgb(60, 65, 80);
+	margin: 0px auto ;
+   width: 60%;
+	padding: 20px;
+	border-radius: 5px;
+}
+#chatbox{
+	width: 90%;
+	height: 400px;
+	color: white;
+
+
+}
+#chatdata{
+	font-weight: bold;
+	border-bottom: 1px solid white;}
+
+input{ 
+margin-top:10px;
+color:black; }
